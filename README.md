@@ -1,5 +1,5 @@
-  <h1 align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!+I'm+Xavier;Welcome+to+my+GitHub+Profile!;" alt="Typing SVG" />
+  <h1 align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&color=580eab&pause=100&width=350&lines=Hello+World!+I'm+Xavier+👋;Welcome+to+my+GitHub+Profile!;" alt="Typing SVG" />
   </h1>
 
   <hr/>
@@ -14,16 +14,27 @@
 
 🔭 I’m currently working on **a physics engine**
 
-🌱 I’m currently learning **Docker & C++**
+🧠 I’m currently learning **Docker & C++**
 
 💡 Fun facts:
 
 </div>
 
-1. **Bananas contain potassium, and since potassium decays, that makes them slightly radioactive**
-2. **The screenwriter for Futurama created the [Futurama Theorem](https://theinfosphere.org/Futurama_theorem)**
-3. **All of humanity could fit in a sugar cube**
-4. **When you look at yourself in a mirror, you are seeing your past self. In fact, everything and everyone you see, you are also seeing in the past**
+<div align="center"><strong>1. Bananas contain potassium, and since potassium decays, that makes them slightly radioactive  </strong></div>
+
+<br/>
+
+<div align="center">
+  <strong>2. The screenwriter for Futurama created the <a href="https://theinfosphere.org/Futurama_theorem">Futurama Theorem</a>  </strong>
+</div>
+
+<br/>
+
+<div align="center"><strong>3. All of humanity could fit in a sugar cube  </strong></div>
+
+<br/>
+
+<div align="center"><strong>4. When you look at yourself in a mirror, you are seeing your past self. In fact, everything and everyone you see, you are also seeing in the past  </strong></div>
 
 <hr/>
 
