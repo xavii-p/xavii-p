@@ -1,7 +1,9 @@
-  <h1 align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&color=580eab&pause=100&width=350&lines=Hello+World!+I'm+Xavier+👋;Welcome+to+my+GitHub+Profile!;" alt="Typing SVG" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/xavii-p/xavii-p/raw/main/assets/name.gif)
+ 
+ <h1 align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&color=6e02e1&pause=100&width=350&&lines=Hello+World!+I'm+Xavier+👋;Welcome+to+my+GitHub+Profile!;" alt="Typing SVG" />
   </h1>
-
+  
   <hr/>
 
   <h2 align="center">  ✨ About Me ✨ </h2>
