@@ -16,12 +16,12 @@
 
 💡 Fun facts:
 
+</div>
+
 1. **Bananas contain potassium, and since potassium decays, that makes them slightly radioactive**
 2. **The screenwriter for Futurama created the [Futurama Theorem](https://theinfosphere.org/Futurama_theorem)**
 3. **All of humanity could fit in a sugar cube**
 4. **When you look at yourself in a mirror, you are seeing your past self. In fact, everything and everyone you see, you are also seeing in the past**
-
-  </div>
 
 <hr/>
 
