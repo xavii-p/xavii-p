@@ -1,8 +1,4 @@
-# <h1 align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Xavier;Welcome+to+my+GitHub+Profile!;" alt="Typing SVG" />
-
-  </h1>
+  <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!+I'm+Xavier;Welcome+to+my+GitHub+Profile!;" alt="Typing SVG" /> </h1>
 
   <hr/>
 
@@ -20,18 +16,16 @@
 
 💡 Fun facts:
 
-- **Bananas contain potassium, and since potassium decays, that makes them slightly radioactive**
-- **The screenwriter for Futurama created the [Futurama Theorem](https://theinfosphere.org/Futurama_theorem)**
-- **All of humanity could fit in a sugar cube**
-- **When you look at yourself in a mirror, you are seeing your past self. In fact, everything and everyone you see, you are also seeing in the past**
+1. **Bananas contain potassium, and since potassium decays, that makes them slightly radioactive**
+2. **The screenwriter for Futurama created the [Futurama Theorem](https://theinfosphere.org/Futurama_theorem)**
+3. **All of humanity could fit in a sugar cube**
+4. **When you look at yourself in a mirror, you are seeing your past self. In fact, everything and everyone you see, you are also seeing in the past**
 
   </div>
 
 <hr/>
 
 <h2 align="center"> 🛠️ Tech Stack 🛠️ </h2>
-
-<hr/>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github" />
