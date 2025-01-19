@@ -12,7 +12,7 @@
   
   🧑‍💻 I'm a passionate developer who loves to code and build exciting projects.
 
-🔭 I’m currently working on **a physics engine**
+🔧 I’m currently working on **a physics engine**
 
 🧠 I’m currently learning **Docker & C++**
 
