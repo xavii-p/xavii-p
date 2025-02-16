@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  🧑‍💻 I'm a developer focused mainly on coding backend software, though I sometimes find small frontend projects exciting. My interests include physics, video games, fitness, and of course software development.
+  🧑‍💻 I'm a developer focused mainly on coding backend software, though I sometimes find small frontend projects exciting. My interests include physics, video games, fitness, and of course software development
 
 🔧 I’m currently working on **a physics engine** 
 
