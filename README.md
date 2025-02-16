@@ -12,9 +12,9 @@
 
 <div align="center">
   
-  🧑‍💻 I'm a passionate developer who loves to code and build exciting projects.
+  🧑‍💻 I'm a developer focused mainly on coding backend software, though I sometimes find small frontend projects exciting. My interests include physics, video games, fitness, and of course software development.
 
-🔧 I’m currently working on **a physics engine**
+🔧 I’m currently working on **a physics engine** 
 
 🧠 I’m currently learning **Docker & C++**
 
